@@ -120,8 +120,9 @@ streamlit run app.py
 ---
 
 # 📸 Preview
+<img width="1897" height="872" alt="image" src="https://github.com/user-attachments/assets/0c08ffb4-6ec4-4ca6-8fa7-9169a340b444" />
 
-<img width="100%" alt="EchoTune Preview" src="https://via.placeholder.com/1200x600.png?text=EchoTune+Music+Recommender"/>
+<!-- <img width="100%" alt="EchoTune Preview" src="https://via.placeholder.com/1200x600.png?text=EchoTune+Music+Recommender"/> -->
 
 ---
 
