@@ -23,7 +23,7 @@ It recommends similar songs based on content similarity using TF-IDF vectorizati
 
 ## Frontend
 
-Tech Stack Used
+Tech Stack Used :
 
 * Streamlit
 
