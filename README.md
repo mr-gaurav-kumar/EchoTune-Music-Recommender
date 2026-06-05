@@ -29,6 +29,8 @@ Tech Stack Used :
 
 ## Backend
 
+Tech Stack Used :
+
 * Python
 
 ## Machine Learning
