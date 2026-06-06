@@ -9,7 +9,7 @@ It recommends similar songs based on content similarity using TF-IDF vectorizati
 
 ---
 
-# ✨ Features
+# ✨ Features :
 
 * 🎧 Smart music recommendations
 * 🔍 Search songs instantly
