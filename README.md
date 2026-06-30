@@ -1,5 +1,6 @@
 # 🎵 EchoTune - Music Recommender System
 
+
 EchoTune is an AI-powered music recommendation web application built using **Python**, **Streamlit**, and **Machine Learning**.
 It recommends similar songs based on content similarity using TF-IDF vectorization and cosine similarity.
 
