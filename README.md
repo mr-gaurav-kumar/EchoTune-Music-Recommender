@@ -42,7 +42,7 @@ Tech Stack Used :
 * TF-IDF Vectorizer
 * Cosine Similarity
 
-## Libraries Used
+## Libraries Used :
 
 * Pandas
 * NumPy
